@@ -1,6 +1,22 @@
+## directories
 /Reference
 /lib
 /bin
 /etc
 /share
+study/data/
+study/images/
+study/python_study/
+
+## files
 pyvenv.cfg
+.DS_Store
+chromedriver
+study/.DS_Store
+study/.ipynb_checkpoints/chapter1-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter2-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter3-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter4-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter5-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter7-checkpoint.ipynb
+study/.ipynb_checkpoints/chapter8-checkpoint.ipynb
